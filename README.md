@@ -1,16 +1,39 @@
-# Hello GitHub Actions
+# Olá, GitHub Actions 🚀
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+> Crie e execute um fluxo de trabalho (*workflow*) do GitHub Actions.
 
-Hey joaopaulo137!
+## 📖 Boas-vindas
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/joaopaulo137/skills-hello-github-actions/issues/1)
+A automação é fundamental para tarefas repetitivas como testes, varreduras de segurança, revisões e processos de *deploy*, e o **GitHub Actions** é a melhor forma de otimizar esse fluxo de trabalho.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### 🎯 Informações Gerais
 
+| Item | Detalhes |
+| :--- | :--- |
+| **Público-alvo** | Desenvolvedores, engenheiros de DevOps e engenheiros de segurança |
+| **O que você aprenderá** | Como criar *workflows* do GitHub Actions, como executá-los e como usá-los para automatizar tarefas |
+| **O que você vai construir** | Um *workflow* do Actions que comentará em um *pull request* assim que ele for criado |
+| **Pré-requisitos** | Introdução ao GitHub |
+| **Duração estimada** | Menos de 30 minutos |
+
+---
+
+### 📝 Roteiro do Exercício
+
+Neste exercício, você vai:
+
+1. [ ] Criar um arquivo de *workflow*
+2. [ ] Adicionar um *job*
+3. [ ] Adicionar uma etapa de execução (*run step*)
+4. [ ] Ver o *workflow* rodando
+5. [ ] Fazer o *merge* do seu *pull request*
+
+---
+
+### 🚀 Como iniciar este exercício
+
+1. Copie o exercício para a sua conta.
+2. Aguarde cerca de **20 segundos** para que sua Octocat favorita (Mona) prepare a primeira lição.
+3. Atualize a página.
